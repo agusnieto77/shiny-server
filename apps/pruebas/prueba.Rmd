@@ -1,14 +1,14 @@
 ---
-title: "Guía interactiva"
+title: "Gua interactiva"
 author:
-  - Agustín Nieto
+  - Agustn Nieto
 output: 
   learnr::tutorial:
     progressive: true
     allow_skip: true
     theme: cerulean
 runtime: shiny_prerendered
-description: "Curso: Datos en línea para la investigación. Conectar, bajar, clasificar, visualizar"
+description: "Curso: Datos en lnea para la investigación. Conectar, bajar, clasificar, visualizar"
 ---
 
 ```{r setup, include=FALSE}
@@ -16,9 +16,7 @@ library(learnr)
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Datos en línea para la investigación. Conectar, bajar, clasificar, visualizar
-
-## Una primera búsqueda básica para comenzar... 
+# Datos
 
 ```{r internetarchive0, exercise=TRUE, message=TRUE}
 
@@ -28,4 +26,4 @@ a
 ```
 
 
-## Hasta la próxima...
+## Hasta la
